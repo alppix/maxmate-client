@@ -11,6 +11,11 @@
     "start": "ng serve",
     "test": "ng test"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alppix/maxmate-client.git"
+  },
+  "license": "MIT",
   "nativescript": {
     "id": "org.nativescript.maxmate",
     "tns-ios": {
